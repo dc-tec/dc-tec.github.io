@@ -1,0 +1,8 @@
+{
+  "source_repository": "dc-tec/openbao-operator",
+  "source_ref": "gh-pages",
+  "source_commit": "719664fb17b3efe1af8161f1425ec0727fc3e446",
+  "mode": "frozen-mirror",
+  "published_files": 2988,
+  "operator_path": "/openbao-operator/"
+}

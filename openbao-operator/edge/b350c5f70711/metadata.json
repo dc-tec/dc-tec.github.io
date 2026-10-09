@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "checksums_bundle": "checksums.txt.bundle",
+    "checksums_txt": "checksums.txt",
+    "crds_yaml": "crds.yaml",
+    "install_yaml": "install.yaml",
+    "provenance_index": "provenance-index.json"
+  },
+  "channel": "edge",
+  "generated_at": "2026-03-24T09:27:05Z",
+  "images": {
+    "backup_executor": {
+      "digest": "sha256:fefe10ce107a75cf420ae5d2a0f7407cff50ac78791c249e226d0fe769b80c41",
+      "ref": "ghcr.io/dc-tec/openbao-backup"
+    },
+    "config_init": {
+      "digest": "sha256:65953a313010e11ad3d76c53c94ee1996bcaf325b64b35ebd470af60a76912f5",
+      "ref": "ghcr.io/dc-tec/openbao-init"
+    },
+    "manager": {
+      "digest": "sha256:90c81cab837be54cd27bed67be7b3b18faea7f1463bcd8693d66d5ae10eb6409",
+      "ref": "ghcr.io/dc-tec/openbao-operator"
+    },
+    "upgrade_executor": {
+      "digest": "sha256:392d40f24f10fc28380d7cc3446e3970f7293c00cc98e416a919fa4e4988a3cc",
+      "ref": "ghcr.io/dc-tec/openbao-upgrade"
+    }
+  },
+  "sha": "b350c5f707118c94eb1350f80e538a693e89914a",
+  "short_sha": "b350c5f70711",
+  "version": "edge-b350c5f70711"
+}

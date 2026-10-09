@@ -1,0 +1,2 @@
+7a8cc4ace496ddf36a7f91e6a786c5a8dc3d93349fce6d1490d3f39fbf60d59a  dist/install.yaml
+37eb31dd37a3b63c8e814dd3a2a447165ada211cd2540fb7ec2e1f102a077e67  dist/crds.yaml
