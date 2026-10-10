@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><title>Page not found</title>
+<script>
+const prefix = "/openbao-operator";
+const path = window.location.pathname;
+if (path === prefix || path.startsWith(prefix + "/")) {
+  window.location.replace("https://docs.kubebao.org" + path.slice(prefix.length) + window.location.search + window.location.hash);
+}
+</script>
+<h1>Page not found</h1>
+<p><a href="https://docs.kubebao.org/">OpenBao Operator documentation</a></p></html>
